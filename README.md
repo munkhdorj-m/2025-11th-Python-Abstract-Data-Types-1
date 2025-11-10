@@ -11,13 +11,13 @@ https://drive.google.com/file/d/1GHMSwiOsYEQY1oRaJ548FfOX41OujLdd/view?usp=shari
 
 **Problem:**
  
-Decimal to Binary (Using a Stack)
-Implement a `Stack` class and use it to convert a decimal number to binary.
-Methods:
-- `push(item)`
-- `pop()`
-- `is_empty()`
-- `decimal_to_binary(n)`
+Decimal to Binary (Using a Stack)   
+Implement a `Stack` class and use it to convert a decimal number to binary.   
+Methods:   
+- `push(item)`   
+- `pop()`    
+- `is_empty()`   
+- `decimal_to_binary(n)`   
     
 Example:
 
