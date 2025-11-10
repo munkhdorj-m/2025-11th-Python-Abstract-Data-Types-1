@@ -34,9 +34,9 @@ Stack stores remainders → popped in reverse order → binary.
 
 **Problem:**
 
-Bank Queue Simulation (Using a Queue)
-Simulate customers waiting in line at the bank.
-Methods:
+Bank Queue Simulation (Using a Queue)    
+Simulate customers waiting in line at the bank.   
+Methods:   
 - `enqueue(item)`
 - `dequeue()`
 - `is_empty()`
